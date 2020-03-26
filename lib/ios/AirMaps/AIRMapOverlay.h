@@ -7,6 +7,7 @@
 #import <React/RCTComponent.h>
 #import "AIRMap.h"
 #import "AIRMapOverlayRenderer.h"
+#import <React/RCTGIFImageDecoder.h>
 
 @class RCTBridge;
 

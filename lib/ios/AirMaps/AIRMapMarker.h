@@ -17,6 +17,7 @@
 #import "AIRMap.h"
 #import "SMCalloutView.h"
 #import "RCTConvert+AirMap.h"
+#import <React/RCTGIFImageDecoder.h>
 
 @class RCTBridge;
 
